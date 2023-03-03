@@ -7,3 +7,4 @@ Git tracks changes of changes.
 Creating a new branch is quick and simple.
 My no-ff merge
 xxxx
+yyy
